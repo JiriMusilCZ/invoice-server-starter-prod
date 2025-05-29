@@ -1,0 +1,40 @@
+# ------------------------------
+# Maven build output
+target/
+
+# Gradle build output (pokud bys někdy přešel)
+/build/
+
+# IntelliJ IDEA project files
+/.idea/
+/*.iml
+
+# VS Code config (pokud bys někdy otevřel ve VS Code)
+/.vscode/
+
+# Logs
+*.log
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Environment and secret files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.bak
+
+# Test output or coverage reports
+/test-output/
+/coverage/
+
+# Node-related (pokud máš frontend v Reactu)
+/node_modules/
+/build/
+/dist/
+
+# Git ignore backups
+*.orig
