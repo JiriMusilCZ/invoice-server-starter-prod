@@ -1,6 +1,6 @@
 # ------------------------------
 # Maven build output
-target/
+/target/
 
 # Gradle build output (pokud bys někdy přešel)
 /build/
